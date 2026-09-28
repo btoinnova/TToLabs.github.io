@@ -1,12 +1,4 @@
 [
-  {
-    "relation": ["delegate_permission/common.handle_all_urls"],
-    "target": {
-      "namespace": "android_app",
-      "package_name": "cl.calculadoraviajes.app",
-      "sha256_cert_fingerprints": [
-        "D0:A9:36:A1:0D:8B:B5:0D:A5:DA:A1:92:F5:B1:41:86:BE:1D:8B:F0:A0:0F:EE:CB:47:AB:D7:9B:38:24:F8:80"
-      ]
-    }
-  }
+  {"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"cl.rumbo.pasajero","sha256_cert_fingerprints":["D0:A9:36:A1:0D:8B:B5:0D:A5:DA:A1:92:F5:B1:41:86:BE:1D:8B:F0:A0:0F:EE:CB:47:AB:D7:9B:38:24:F8:80"]}},
+  {"relation":["delegate_permission/common.handle_all_urls"],"target":{"namespace":"android_app","package_name":"cl.calculadoraviajes.app","sha256_cert_fingerprints":["D0:A9:36:A1:0D:8B:B5:0D:A5:DA:A1:92:F5:B1:41:86:BE:1D:8B:F0:A0:0F:EE:CB:47:AB:D7:9B:38:24:F8:80"]}}
 ]
